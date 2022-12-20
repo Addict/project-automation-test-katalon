@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Login with Facebook</name>
+   <tag></tag>
+   <elementGuidId>b46c2775-3e5c-4756-ad92-529298619ecf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='login-form-popup']/div/div/div/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.button.social-button.large.facebook.circle</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>61fdcf7b-ce7a-4b4d-9916-43a27358f465</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.psegameshop.com/wp-login.php?loginSocial=facebook</value>
+      <webElementGuid>58f194fc-6f23-4924-9a84-51beb815e05b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button social-button large facebook circle</value>
+      <webElementGuid>b0fdfe48-c0c4-441e-b41b-2e3b34750ce3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-plugin</name>
+      <type>Main</type>
+      <value>nsl</value>
+      <webElementGuid>57072dda-fa1a-4244-b1ac-69416e7bfbd2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-action</name>
+      <type>Main</type>
+      <value>connect</value>
+      <webElementGuid>da6e261d-297d-4be3-b933-9959434ff819</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-redirect</name>
+      <type>Main</type>
+      <value>current</value>
+      <webElementGuid>7962788a-16dd-4260-9915-546e95d21669</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-provider</name>
+      <type>Main</type>
+      <value>facebook</value>
+      <webElementGuid>5d9b9a91-9b2a-4ace-bc55-603d989cbf51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-popupwidth</name>
+      <type>Main</type>
+      <value>475</value>
+      <webElementGuid>51aa08ac-4b31-4da9-b8a7-448e5527bb7f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-popupheight</name>
+      <type>Main</type>
+      <value>175</value>
+      <webElementGuid>443a538c-5b4a-4c3e-af62-cbb2ec4ffaac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+							
+							Login with Facebook
+						</value>
+      <webElementGuid>c79b1a2e-2fff-49bd-8c31-58659bf7cab1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;login-form-popup&quot;)/div[@class=&quot;my-account-header page-title normal-title&quot;]/div[@class=&quot;page-title-inner flex-row container
+	 text-left&quot;]/div[@class=&quot;flex-col flex-grow medium-text-center&quot;]/div[@class=&quot;text-center social-login&quot;]/a[@class=&quot;button social-button large facebook circle&quot;]</value>
+      <webElementGuid>632d389c-bf5d-4052-a07f-ba7c6ac8dbbf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='login-form-popup']/div/div/div/div/a</value>
+      <webElementGuid>719d104c-30a6-4db7-b7b1-e18eb0cb9572</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.psegameshop.com/wp-login.php?loginSocial=facebook')]</value>
+      <webElementGuid>fa80f781-b012-457a-9eca-853c483f5367</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a</value>
+      <webElementGuid>693147d3-3c78-4842-859d-03c8b8c9d735</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.psegameshop.com/wp-login.php?loginSocial=facebook' and (text() = '
+							
+							Login with Facebook
+						' or . = '
+							
+							Login with Facebook
+						')]</value>
+      <webElementGuid>1e524172-b795-42ed-86eb-266df6994201</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

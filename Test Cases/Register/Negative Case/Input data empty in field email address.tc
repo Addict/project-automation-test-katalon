@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Input data empty in field email address</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b659e715-7ef2-402b-89e0-5f0b18dab6cb</testCaseGuid>
+</TestCaseEntity>

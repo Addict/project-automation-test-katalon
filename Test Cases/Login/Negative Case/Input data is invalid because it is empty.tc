@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Input data is invalid because it is empty</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b418da42-9705-40c3-bda7-59ce30a450e9</testCaseGuid>
+</TestCaseEntity>

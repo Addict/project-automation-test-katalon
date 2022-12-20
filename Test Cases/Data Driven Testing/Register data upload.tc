@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Register data upload</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>89d1a8be-3836-4069-b603-be911c18db73</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f87ea667-efca-472c-a98d-ec9aa91ff84f</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f0e1c053-98d4-4864-a3a0-3f4424b6ecec</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e3c346a0-c0e4-4d14-aa08-ea346db9896f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f87ea667-efca-472c-a98d-ec9aa91ff84f</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f0e1c053-98d4-4864-a3a0-3f4424b6ecec</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e3c346a0-c0e4-4d14-aa08-ea346db9896f</id>
+      <masked>false</masked>
+      <name>confirmPassword</name>
+   </variable>
+</TestCaseEntity>

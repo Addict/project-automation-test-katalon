@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Aditia Dwi Saputra</name>
+   <tag></tag>
+   <elementGuidId>dd64e334-aed9-451e-b5c5-94ec61372343</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='view_container']/div/div/div[2]/div/div/div/form/span/section/div/div/div/div/ul/li/div/div/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.w1I7fb</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3942d182-1b51-4a24-ba33-7e872ec6ab6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w1I7fb</value>
+      <webElementGuid>1f64cdd5-ee23-401b-bc78-a958c137836a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>jsname</name>
+      <type>Main</type>
+      <value>V1ur5d</value>
+      <webElementGuid>3a795bfb-6653-4770-96a7-da69eb2e0691</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Aditia Dwi Saputra</value>
+      <webElementGuid>98cd69e3-1ebd-4b52-b935-f7abf33dad23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;view_container&quot;)/div[@class=&quot;zWl5kd&quot;]/div[@class=&quot;DRS7Fe bxPAYd k6Zj8d&quot;]/div[@class=&quot;pwWryf bxPAYd&quot;]/div[@class=&quot;Wxwduf Us7fWe JhUD8d&quot;]/div[@class=&quot;WEQkZc&quot;]/div[@class=&quot;bCAAsb&quot;]/form[1]/span[1]/section[@class=&quot;aTzEhb&quot;]/div[@class=&quot;CxRgyd&quot;]/div[1]/div[@class=&quot;zeRELc&quot;]/div[@class=&quot;pQ0lne&quot;]/ul[@class=&quot;OVnw0d&quot;]/li[@class=&quot;JDAKTe ibdqA W7Aapd zpCp3 SmR8&quot;]/div[@class=&quot;lCoei YZVTmd SmR8&quot;]/div[@class=&quot;d2laFc&quot;]/div[@class=&quot;tgnCOd&quot;]/div[@class=&quot;WBW9sf&quot;]/div[@class=&quot;w1I7fb&quot;]</value>
+      <webElementGuid>ea8b77c9-3405-4083-83db-ca77fb3260b3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='view_container']/div/div/div[2]/div/div/div/form/span/section/div/div/div/div/ul/li/div/div/div/div[2]/div</value>
+      <webElementGuid>00aa3152-311b-4ea6-8958-a7b932feb3e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='psegameshop.com'])[1]/following::div[14]</value>
+      <webElementGuid>460494b7-ab1b-4866-8cc8-e11aeb4f5d45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='dwisaputraaditia5@gmail.com'])[1]/preceding::div[1]</value>
+      <webElementGuid>b80de0ab-aef7-4429-8317-d44312ccb1e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Use another account'])[1]/preceding::div[4]</value>
+      <webElementGuid>f0f13e90-64b5-44ca-b1a2-d69a721865ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Aditia Dwi Saputra']/parent::*</value>
+      <webElementGuid>aea058c6-4ed4-4b6c-9939-fa37d568a16f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div/div/div/div[2]/div</value>
+      <webElementGuid>7dcfdf74-4d1e-4293-a2fd-5d8b1c5221b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Aditia Dwi Saputra' or . = 'Aditia Dwi Saputra')]</value>
+      <webElementGuid>4f092f97-aec4-4508-82f5-1b88c200183d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

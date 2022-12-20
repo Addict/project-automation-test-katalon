@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Very weak - Please enter a stronger password</name>
+   <tag></tag>
+   <elementGuidId>437d5282-8677-4c20-9218-3753f86f8921</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='customer_login']/div[2]/div/form/p[2]/span/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.woocommerce-password-strength.short</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c76f8304-81ed-4cc8-8ac0-80a8dbbe375d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>woocommerce-password-strength short</value>
+      <webElementGuid>deb65db6-9d87-43e3-bf22-49b842016ee0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-live</name>
+      <type>Main</type>
+      <value>polite</value>
+      <webElementGuid>71075562-787f-4d5f-ae44-ca2594b2a39d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Very weak - Please enter a stronger password.</value>
+      <webElementGuid>f7a6cd60-b758-47ff-922e-91c70bd87578</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;customer_login&quot;)/div[@class=&quot;col-2 large-6 col pb-0&quot;]/div[@class=&quot;account-register-inner&quot;]/form[@class=&quot;woocommerce-form woocommerce-form-register register&quot;]/p[@class=&quot;woocommerce-form-row woocommerce-form-row--wide form-row form-row-wide&quot;]/span[@class=&quot;password-input&quot;]/div[@class=&quot;woocommerce-password-strength short&quot;]</value>
+      <webElementGuid>d7a59e2f-88b1-4d66-9bf8-d1b164f7a4c3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='customer_login']/div[2]/div/form/p[2]/span/div</value>
+      <webElementGuid>dd82acd8-c82f-4d0a-b9c1-40cd9dfe8b12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[8]/following::div[1]</value>
+      <webElementGuid>e2ed67d2-a944-4973-9c59-44b497d2bf9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[9]/preceding::div[1]</value>
+      <webElementGuid>ca5495a3-c4fc-4fcb-b896-7875daa7a29b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Very weak - Please enter a stronger password.']/parent::*</value>
+      <webElementGuid>3b55f208-0058-45fb-be21-357ea7328d15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/div</value>
+      <webElementGuid>fa5a91bb-7828-4140-b1dd-ffa7fb202e91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Very weak - Please enter a stronger password.' or . = 'Very weak - Please enter a stronger password.')]</value>
+      <webElementGuid>628d4b98-1a36-40d0-83a3-fb29cd67a3f8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
