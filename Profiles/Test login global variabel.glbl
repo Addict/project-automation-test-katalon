@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>Test login global variabel</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://www.psegameshop.com/'</initValue>
+      <name>appURL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'dwisaputraaditia5@gmail.com'</initValue>
+      <name>appUsername</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'aditislam13'</initValue>
+      <name>appPassword</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
